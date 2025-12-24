@@ -4,7 +4,7 @@
 ### Mbeya University of Science and Technology (MUST)
 
 ## 📋 Overview
-This repository contains the comprehensive research data, technical reports, and preliminary findings collected during my tenure at **MUST**. It represents three years of dedicated work in [Insert your specific research field, e.g., Civil Engineering / Information Tech].
+This repository contains the comprehensive research data, technical reports, and preliminary findings collected during my tenure at **SDUST**. It represents three years of dedicated work in [Insert your specific research field, e.g., Civil Engineering / Information Tech].
 
 ## 📂 Directory Structure
 To maintain professional organization, the data is structured as follows:
